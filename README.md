@@ -1,1 +1,1 @@
-# python-visualization
+I built this project while following along the associated chapters in Python Crash Course by Eric Matthes. This was mainly an exercise for familiarizing myself with vim and introductory capabilities of matplotlib. The requirements.txt file can be used to create a conda environment and lists all dependencies for the project. 
